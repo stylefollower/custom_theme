@@ -1,0 +1,15 @@
+#masthead{
+    background-color: aqua;
+}
+
+#masthead{
+    display: flex;
+}
+
+#site_branding{
+    flex-grow: 1;
+}
+
+#site-navigation{
+    flex-grow: 1;
+}
